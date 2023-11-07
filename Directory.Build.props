@@ -1,0 +1,11 @@
+<Project>
+    <PropertyGroup>
+        <Copyright>Copyright © Markus Wenzl</Copyright>
+        <Company>Markus Wenzl</Company>
+        <Product>FibaroNet</Product>
+        <ProductName>FibaroNet</ProductName>
+        <Authors>Markus Wenzl</Authors>
+
+        <CodeAnalysisRuleSet>$(SolutionDir)/Analyser.ruleset</CodeAnalysisRuleSet>
+    </PropertyGroup>
+</Project>
